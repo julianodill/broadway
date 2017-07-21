@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+  font-family: helvetica;
+}
+
+ul {
+  margin-right: 50px;
+  list-style-type: none;
+  font-size: 18px;
+  color: white;
+  line-height: 180%;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bolder;
+  color: white;
+}
+
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  }
+
+  h3 {
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 0;
+    }
+
+p {
+  font-size: 14px;
+  margin-top: 0px;
+  margin-bottom: 60px;
+  padding:0;
+
+  }
+
+ a { color: inherit;
+   }
+
+.header {
+  background-image: url(file:/Users/Juliano_Projects/Projects/Codecademy/Broadway/resources/images/the-flatiron-building.png);
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 12px;
+  text-align: left;
+}
+
+#nystripe {
+  font-size: 23px;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 60px;
+  padding:0;
+}
